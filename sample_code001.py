@@ -6,6 +6,8 @@ def calculate_sum(a, b):
 
 def main():
     print("Hello, World!")
+    print("This is a sample Python script create in develop branch .")
+    print("Code update got feature branch for ticket PHO-001")
     
     name = "Python"
     greeting = greet(name)
