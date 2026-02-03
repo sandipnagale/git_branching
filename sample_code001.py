@@ -8,6 +8,7 @@ def main():
     print("Hello, World!")
     print("This is a sample Python script create in develop branch .")
     print("Code update got feature branch for ticket PHO-001")
+    print("Release 1.3.0 changes added here.")
     
     name = "Python"
     greeting = greet(name)
